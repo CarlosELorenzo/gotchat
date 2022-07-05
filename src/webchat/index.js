@@ -1,1 +1,3 @@
-export const webchat = {}
+export const webchat = {
+	storage: sessionStorage,
+};
